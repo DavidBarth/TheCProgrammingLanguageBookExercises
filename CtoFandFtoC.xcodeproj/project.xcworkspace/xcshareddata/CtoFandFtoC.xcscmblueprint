@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "05032C0CF975C098F2C34AFB5375FBC8E78657A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "05032C0CF975C098F2C34AFB5375FBC8E78657A7" : 0,
+    "D2A444505F5D83ACB921B7DEBA007AAF42001A48" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7B833100-EAEC-4852-8E92-59C441F7DAE5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "05032C0CF975C098F2C34AFB5375FBC8E78657A7" : "TheCProgrammingLanguageBookExercises\/",
+    "D2A444505F5D83ACB921B7DEBA007AAF42001A48" : "TheCProgrammingLanguageBookExercises\/CtoFandFtoC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CtoFandFtoC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CtoFandFtoC.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DavidBarth\/TheCProgrammingLanguageBookExercises.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05032C0CF975C098F2C34AFB5375FBC8E78657A7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DavidBarth\/CtoFandFtoC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2A444505F5D83ACB921B7DEBA007AAF42001A48"
+    }
+  ]
+}
